@@ -2,16 +2,22 @@
   "allowedIps": [],
   "users": [
     {
-      "username": "Rimoffc",
-      "password": "rimoffc2024"
+      "whatsappNumber": "083857564133",
+      "password": "rafael"
     },
     {
-      "username": "rafael",
+      "whatsappNumber": "083846147781",
       "password": "123"
     }
   ],
   "approvedUsers": [
-        { "username": "rafael", "token": "rafael123" },
-        { "username": "user2", "token": "another-token-here" }
+    {
+      "whatsappNumber": "083857564133",
+      "token": "rafael123"
+    },
+    {
+      "whatsappNumber": "083846147781",
+      "token": "rafael123"
+    }
   ]
 }
