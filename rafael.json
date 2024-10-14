@@ -1,1 +1,17 @@
-{}
+{
+  "allowedIps": [],
+  "users": [
+    {
+      "username": "Rimoffc",
+      "password": "rimoffc2024"
+    },
+    {
+      "username": "rafael",
+      "password": "123"
+    }
+  ],
+  "approvedUsers": [
+        { "username": "rafael", "token": "rafael123" },
+        { "username": "user2", "token": "another-token-here" }
+  ]
+}
